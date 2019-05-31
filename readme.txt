@@ -15,3 +15,7 @@ covmattheta, covmatbeta: estimated asymptotic variance for theta and beta, respe
 grid: a grid on [0,1] on which the function values as well as the 1-alpha confidence interval are computed. 
 f: estimated function value on the grid
 upper, lower: upper/lower confidence bound on the grid for f
+
+
+
+The file main.R uses a simulated data set to illustrate the use of fitplm() function.
